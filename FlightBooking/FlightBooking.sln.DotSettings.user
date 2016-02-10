@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=EFA54A08B4594C94BAE8894B9369687A/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=EFA54A08B4594C94BAE8894B9369687A/Name/@EntryValue">FindandClickonFLightsTab #3</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=EFA54A08B4594C94BAE8894B9369687A/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="FlightBooking.Program" type="NUnitTestFixtureElement" Project="28F80BDD-2BAD-471E-A808-A112AAD09DA9" /&gt;&lt;UnitTestElement Provider="nUnit" Id="FlightBooking.Program.BookAReturnTrip" ParentId="FlightBooking.Program" type="NUnitTestElement" TypeName="FlightBooking.Program" MethodName="BookAReturnTrip" Project="28F80BDD-2BAD-471E-A808-A112AAD09DA9" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String></wpf:ResourceDictionary>
